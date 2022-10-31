@@ -1,6 +1,6 @@
-# Generative Adversarial Learning for 5G Interference Mitigation
+# Generative Adversarial Learning for Intelligent 5G Interference Mitigation
 
-ECE 5674 final project "Generative Adversarial Learning for 5G Interference Mitigation".
+ECE 5674 final project "Generative Adversarial Learning for Intelligent 5G Interference Mitigation".
 
 ## Team
 
