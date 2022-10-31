@@ -4,6 +4,6 @@ ECE 5674 final project "Generative Adversarial Learning for Intelligent 5G Inter
 
 ## Team
 
-Project team members
+Project team members:
 
 - [@zanderman](https://github.com/zanderman)
