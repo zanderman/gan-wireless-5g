@@ -1,3 +1,9 @@
+# Omitted directories.
+dataset/
+dataset
+images/
+images
+
 # macOS files
 .DS_Store
 Icon?
