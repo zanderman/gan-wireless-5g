@@ -3,6 +3,8 @@ dataset/
 dataset
 images/
 images
+tuning/
+tuning
 
 # macOS files
 .DS_Store
