@@ -5,6 +5,8 @@ images/
 images
 tuning/
 tuning
+tables/
+tables
 
 # macOS files
 .DS_Store
